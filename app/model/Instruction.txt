@@ -1,0 +1,4 @@
+1. Download Model seperti instruksi pada Download_The_Model_Here.txt
+2. Taruh model di dalam model directory (this directory)
+3. Change directory ke app directory
+4. Jalankan fastapi run main.py
